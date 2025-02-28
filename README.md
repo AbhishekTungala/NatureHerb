@@ -1,15 +1,15 @@
-# Virtual Herbal Garden
+# NatureHerb:Embrace Nature’s Healing Power
 
 ## Project Overview
 
-The **Virtual Herbal Garden** is an interactive, immersive platform that showcases the diverse range of medicinal plants used in the AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy) systems. This project aims to educate users on the benefits of these plants through engaging 3D models, multimedia content, and interactive features.
+Welcome to NatureHerb, an interactive and immersive platform dedicated to showcasing the profound benefits of medicinal plants and traditional healing practices. Rooted in the wisdom of Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy, our virtual herbal garden allows users to explore nature’s healing power through 3D models, multimedia content, and interactive features.
 ---
 ### Features
 
 - 3D Plant Models: Rotate, zoom, and explore realistic models of medicinal plants from various angles.
 - Comprehensive Information: Learn about botanical names, common names, habitats, medicinal uses, and cultivation methods.
 - Augmented Reality (AR): Scan real-world plants and access detailed 3D models via AR integration.
-- AI-Powered Herbal Assistant: Get answers to queries related to medicinal plants through an AI chatbot.
+- Herbal Assistant: Get answers to queries related to medicinal plants through an AI chatbot.
 - Multimedia Elements: High-quality images, videos, and audio descriptions to enhance the learning experience.
 - Advanced Search and Filter Options: Search for plants based on medicinal uses, regions, or type.
 - Virtual Tours: Guided tours focused on themes such as digestive health, immunity, and skin care.
@@ -28,15 +28,15 @@ The **Virtual Herbal Garden** is an interactive, immersive platform that showcas
 - 3D Modeling: Blender, Sketchfab, WebGL, AR.js, Three.js
 - Backend: Node.js, MongoDB, Dialogflow
 - Image Recognition: Plant.id API
-- Hosting: AWS S3
+- Hosting: Vercel
 ---
 ## Implementation Workflow
 1. Frontend Development: React.js and Tailwind CSS are used to build a responsive user interface for the virtual garden.
 2. 3D Modeling: Blender and Three.js are used to create and render interactive 3D models of the plants.
 3. Backend and API Integration: Node.js with MongoDB handles the database, while Plant.id API is integrated for plant image recognition.
 4. AR Functionality: AR.js enables the augmented reality features for scanning plants.
-5. AI-Powered Chatbot: Dialogflow is used for the herbal assistant chatbot, enabling real-time query resolution.
-6. Deployment: The platform is hosted on AWS S3, ensuring scalability and performance.
+5. Chatbot: Dialogflow is used for the herbal assistant chatbot, enabling real-time query resolution.
+6. Deployment: The platform is hosted on Vercel, ensuring scalability and performance.
 ---
 ## Feasibility and Viability
 - Challenges: Developing accurate 3D models and AR functionalities, ensuring compatibility with low-network environments.
