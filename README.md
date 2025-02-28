@@ -3,6 +3,7 @@
 ## Project Overview
 
 Welcome to NatureHerb, an interactive and immersive platform dedicated to showcasing the profound benefits of medicinal plants and traditional healing practices. Rooted in the wisdom of Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy, our virtual herbal garden allows users to explore nature’s healing power through 3D models, multimedia content, and interactive features.
+
 ---
 ### Features
 
